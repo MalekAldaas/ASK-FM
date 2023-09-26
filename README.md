@@ -1,6 +1,5 @@
 # Console ASK-FM
-ASK-FK is C++ Console Application, ASK-FM is a social media service based on asking and answering questions, in which posts can be anonymous. Once you create a profile, you can post questions for other members to answer and comment on questions asked by other members. 
-System made using the concepts of Object Oriented Analysis and Design.
+ASK-FM is a C++ file-based console application that functions as a social media platform where users can ask and answer questions. It allows for anonymous posts and facilitates interactions through profile creation, enabling users to pose questions, receive answers, and comment on other members' inquiries. The system is designed using Object-Oriented Analysis and Design concepts for an organized and efficient implementation.
 
 ## Features
 - User can signup account, all input such as username and email are validation using regex.
